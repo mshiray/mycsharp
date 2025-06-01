@@ -1,0 +1,27 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        //project build task
+        {
+            "label": "build",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+                "mycsharp.sln"
+            ],
+            "problemMatcher": "$msCompile"
+        },
+        // project clean task
+        {
+            "label": "clean",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "clean",
+                "mycsharp.sln"
+            ],
+            "problemMatcher": "$msCompile"
+        }
+    ]
+}
