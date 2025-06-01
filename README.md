@@ -43,8 +43,11 @@ The purpose of this application is to output "Hello World" to the console. It se
 VS Code Build, run, clean, debug:
 
    Clean proejct: Ctrl+Alt+c
+
    Build: ctrl+Alt+B
+
    Run without debug: Ctrl+F5
+   
    Debug and Run : F5
   
 
