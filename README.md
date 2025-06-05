@@ -21,6 +21,13 @@ The purpose of this application is to output "Hello World" to the console. It se
 
   # VS Code build and clean key bindings:
 
+   VS Code Plugins:
+
+      1. C# (Microsoft)
+      2. C# Dev Kit (Microsoft)
+      3. IntelliCode for C# Dev Kit (Microsoft)
+      4. .NET Install Tool (Optional if you wish to manage mutiple.NET SDK versions from within VS Code)
+
    Copy below bindings to keybindings.json:
 
    Open the Command Palette (Ctrl+Shift+P), type Keyboard Shortcuts (JSON), and select Preferences: Open Keyboard Shortcuts (JSON).
@@ -42,7 +49,7 @@ The purpose of this application is to output "Hello World" to the console. It se
 
 VS Code Build, run, clean, debug:
 
-   Clean proejct: Ctrl+Alt+c
+   Clean project: Ctrl+Alt+c
 
    Build: ctrl+Alt+B
 
